@@ -24,9 +24,9 @@ here i want to try making a table.
 | apple | a | monkey |
 | oranges | b | donkey| 
 
-now i want to add a hyper link to github. Click [here](http://www.githug.com) for **Github
+now i want to add a hyper link to github. Click [here](http://www.githug.com) for **Github**
 
-i want to test **bold and *italics.
+i want to test **bold** and *italics*.
 ## how to add code
 this is whre i am trying to add code using ` this option `
 ```html
